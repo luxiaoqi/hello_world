@@ -1,0 +1,192 @@
+* commit 912337a537145d28e39b05257c85492d57802e91
+| Author: xiaoqi.lu <xiaoqi.lu@sinovision-tech.com>
+| Date:   Mon Dec 5 15:26:15 2022 +0800
+| 
+|     delete 11.txt
+| 
+* commit f4f7c411c1be099da435861040da0b68eb08e07e
+| Author: xiaoqi.lu <xiaoqi.lu@sinovision-tech.com>
+| Date:   Fri Dec 2 17:03:15 2022 +0800
+| 
+|     delete 22.txt
+| 
+* commit fb11f333700fe064c846fb4d94c9ddedc46fdcd7
+| Author: luxiaoqi <luxiaoqi1987@163.com>
+| Date:   Wed Oct 12 16:13:15 2016 +0800
+| 
+|     lxq
+| 
+* commit 0c252db2803f71d0d3d34954b813c50b05b0b860
+| Author: xiaopingtou87 <luxiaoqi1987@163.com>
+| Date:   Thu Oct 6 22:38:36 2016 +0800
+| 
+|     20 ea
+| 
+* commit a1e5aab91971219a3e21655f14d2ba4f96dded51
+| Author: xiaopingtou87 <luxiaoqi1987@163.com>
+| Date:   Wed Oct 5 01:21:21 2016 +0800
+| 
+|     lxq
+| 
+* commit 309aa7800d3c8efead4ffbdd4090ed436a924384
+| Author: xiaopingtou87 <luxiaoqi1987@163.com>
+| Date:   Tue Oct 4 17:58:14 2016 +0800
+| 
+|     lxq
+| 
+* commit cdc7b9e583d5b49d9e63a2123a740571e1cc6102
+| Author: xiaopingtou87 <luxiaoqi1987@163.com>
+| Date:   Tue Oct 4 09:57:44 2016 +0800
+| 
+|     lxq
+| 
+* commit 451806d66b4f0722854400f46326fc567cd5ff5d
+| Author: xiaopingtou87 <luxiaoqi1987@163.com>
+| Date:   Sun Oct 2 07:53:10 2016 +0800
+| 
+|     lxq
+| 
+* commit 45d8b89a666c98a5171688e141fa818904ec3f58
+| Author: xiaopingtou87 <luxiaoqi1987@163.com>
+| Date:   Sat Oct 1 07:32:11 2016 +0800
+| 
+|     lxq
+| 
+* commit ca70ce5a96e2f7e5ee4d0e0d5f12802c02d35633
+| Author: xiaopingtou87 <luxiaoqi1987@163.com>
+| Date:   Fri Sep 30 06:44:06 2016 +0800
+| 
+|     lxq
+| 
+* commit 0b5aa501384d8819ee4d18caf18007c5a2813609
+| Author: luxiaoqi <luxiaoqi1987@163.com>
+| Date:   Fri Sep 23 17:58:42 2016 +0800
+| 
+|     lxq
+| 
+* commit 838d12dfd3d3955c0c99eb57ff7a9806ed6b19fd
+| Author: luxiaoqi <luxiaoqi1987@163.com>
+| Date:   Fri Sep 23 17:47:07 2016 +0800
+| 
+|     lxq
+| 
+* commit e70d0a10de0b4fb104264a4bda814302f2f36ca9
+| Author: luxiaoqi <luxiaoqi1987@163.com>
+| Date:   Fri Sep 23 17:43:45 2016 +0800
+| 
+|     lxq
+| 
+* commit f6e86aa6856aff70949ae471e2dd08045a3e195a
+| Author: luxiaoqi <luxiaoqi1987@163.com>
+| Date:   Fri Sep 23 16:32:42 2016 +0800
+| 
+|     lxq
+| 
+* commit dbdb23d6e01d17f79550bd98f75140d562f19ab9
+| Author: xiaopingtou87 <luxiaoqi1987@163.com>
+| Date:   Thu Sep 22 22:12:27 2016 +0800
+| 
+|     lxq
+| 
+* commit 86085137203b41ba92ed5c3577e2f11f4f337927
+| Author: xiaopingtou87 <luxiaoqi1987@163.com>
+| Date:   Thu Sep 22 22:10:20 2016 +0800
+| 
+|     save new ea
+| 
+* commit 50212e408f67f8d63cd6ac54d32a10d8ce80896a
+| Author: luxiaoqi <luxiaoqi1987@163.com>
+| Date:   Thu Sep 22 17:26:06 2016 +0800
+| 
+|     lxq
+| 
+* commit 3620a6db9c62bcaac69be80cbea4f75472abeafe
+| Author: luxiaoqi <luxiaoqi1987@163.com>
+| Date:   Thu Sep 22 17:18:24 2016 +0800
+| 
+|     lxq
+| 
+* commit 17aa82c292098fe693d33476b205dbeed179d157
+| Author: luxiaoqi <luxiaoqi1987@163.com>
+| Date:   Thu Sep 22 16:42:07 2016 +0800
+| 
+|     lxq
+| 
+* commit 90d4945dab3a726968fb19932948d67e21ab949c
+| Author: luxiaoqi <luxiaoqi1987@163.com>
+| Date:   Thu Sep 22 09:46:04 2016 +0800
+| 
+|     lxq
+| 
+* commit 1546a9f8ebdcb992707222ce780b75f850aee0c5
+| Author: xiaopingtou87 <luxiaoqi1987@163.com>
+| Date:   Wed Sep 21 23:23:19 2016 +0800
+| 
+|     lxq
+| 
+* commit eb83367090a54cdbb58230b1be49ce034fc2db3f
+| Author: xiaopingtou87 <luxiaoqi1987@163.com>
+| Date:   Wed Sep 21 23:21:46 2016 +0800
+| 
+|     lxq
+| 
+* commit d5bcb256014943852447d982d1110e00bbb3aaa6
+| Author: xiaopingtou87 <luxiaoqi1987@163.com>
+| Date:   Wed Sep 21 07:09:44 2016 +0800
+| 
+|     lxq
+| 
+* commit ea73b7ee99776b55e3fab00a40fd553721e6acb1
+| Author: xiaopingtou87 <luxiaoqi1987@163.com>
+| Date:   Wed Sep 21 07:06:23 2016 +0800
+| 
+|     lxq
+| 
+* commit 323b00e3facca52e6d6d2684eb6a280f1c027c3d
+| Author: xiaopingtou87 <luxiaoqi1987@163.com>
+| Date:   Tue Sep 20 16:50:33 2016 +0800
+| 
+|     text change
+| 
+* commit 22862f4a384d53a4a2fd104b2f09b293fe88685f
+| Author: xiaopingtou87 <luxiaoqi1987@163.com>
+| Date:   Tue Sep 20 16:41:39 2016 +0800
+| 
+|     text2
+|     
+|     where am i?
+| 
+* commit bce9fa84c6d6d0790ab45448c500350d0aa22f5f
+| Author: xiaopingtou87 <luxiaoqi1987@163.com>
+| Date:   Tue Sep 20 16:38:47 2016 +0800
+| 
+|     text1
+|     
+|     create new file with text1
+|   
+*   commit 74c28b05e60a055b7ef6d746cd1ae28a4f170204
+|\  Merge: 7d7b2da 665fe8c
+| | Author: luxiaoqi <luxiaoqi1987@163.com>
+| | Date:   Mon Sep 19 09:51:27 2016 +0800
+| | 
+| |     Merge branch 'master' of https://github.com/luxiaoqi/mql4
+| | 
+| * commit 665fe8cfa36297df8a0cea9bae2d3bc3c7d049a9
+| | Author: xiaopingtou87 <luxiaoqi1987@163.com>
+| | Date:   Sun Sep 18 17:48:31 2016 +0800
+| | 
+| |     111
+| |     
+| |     1111111111sdsadsda
+| | 
+* | commit 7d7b2dadf380abf393085039466380a51da8fc5b
+|/  Author: luxiaoqi <luxiaoqi1987@163.com>
+|   Date:   Mon Sep 19 09:49:41 2016 +0800
+|   
+|       new test
+| 
+* commit e638aed42021410c3100cefc27ce8e81615523fb
+  Author: luxiaoqi <luxiaoqi1987@163.com>
+  Date:   Sun Sep 18 14:13:16 2016 +0800
+  
+      mt4 experts
