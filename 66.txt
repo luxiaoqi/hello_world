@@ -1,0 +1,13 @@
+total 23
+drwxr-xr-x 1 SNVS-03 197121    0 Dec  8 13:26 ./
+drwxr-xr-x 1 SNVS-03 197121    0 Dec  5 15:35 ../
+drwxr-xr-x 1 SNVS-03 197121    0 Dec  8 13:26 .git/
+-rw-r--r-- 1 SNVS-03 197121 4986 Dec  5 15:52 11.txt
+-rw-r--r-- 1 SNVS-03 197121  444 Dec  8 11:01 22.txt
+-rw-r--r-- 1 SNVS-03 197121   85 Dec  8 11:23 33.txt
+-rw-r--r-- 1 SNVS-03 197121  412 Dec  8 13:25 44.txt
+-rw-r--r-- 1 SNVS-03 197121  606 Dec  8 13:25 55.txt
+-rw-r--r-- 1 SNVS-03 197121    0 Dec  8 13:26 66.txt
+-rw-r--r-- 1 SNVS-03 197121   37 Dec  5 15:54 README.md
+-rw-r--r-- 1 SNVS-03 197121  324 Dec  5 15:53 list.txt
+-rw-r--r-- 1 SNVS-03 197121  382 Dec  6 10:00 newlist.txt
