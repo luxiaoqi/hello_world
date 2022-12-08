@@ -5,4 +5,7 @@ total 13
 -rw-r--r-- 1 SNVS-03 197121    0 Dec  8 10:56 44.txt
 -rw-r--r-- 1 SNVS-03 197121   37 Dec  5 15:54 README.md
 -rw-r--r-- 1 SNVS-03 197121  324 Dec  5 15:53 list.txt
+k
+lxq_new
+
 -rw-r--r-- 1 SNVS-03 197121  382 Dec  6 10:00 newlist.txt
